@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Smash</name>
+    </assembly>
+    <members>
+        <member name="T:Smash.HashStream`1">
+            <summary>
+            A Stream proxy that allows to compute a hash while reading or writing from a backend <see cref="T:System.IO.Stream"/>.
+            </summary>
+            <typeparam name="THash"></typeparam>
+        </member>
+        <member name="M:Smash.HashStream`1.#ctor(System.IO.Stream,`0)">
+            <summary>
+            Initialize a new instance of <see cref="T:Smash.HashStream`1"/>
+            </summary>
+            <param name="backendStream">The backend stream that will be used to read/write data to it</param>
+            <param name="hash">The hash method to use</param>
+        </member>
+        <member name="F:Smash.HashStream`1.Hash">
+            <summary>
+            Hash passed to the constructor, accessible on the field directly in order to allow reset.
+            </summary>
+        </member>
+        <member name="T:Smash.IHash">
+            <summary>
+            Base interface for writing to a hash.
+            </summary>
+            <seealso cref="T:Smash.IHash64"/>
+            <seealso cref="T:Smash.IHash32"/>
+        </member>
+        <member name="T:Smash.IHash64">
+            <summary>
+            Interface for computing a 64bit hash.
+            </summary>
+        </member>
+        <member name="M:Smash.IHash64.Reset(System.UInt64)">
+            <summary>
+            Resets this hash with the specified seed
+            </summary>
+            <param name="seed">The seed to reset this instance</param>
+        </member>
+        <member name="M:Smash.IHash64.Compute">
+            <summary>
+            Computes the current 64bit hash
+            </summary>
+            <returns>The current 64bit hash</returns>
+        </member>
+        <member name="T:Smash.IHash32">
+            <summary>
+            Interface for computing a 32bit hash.
+            </summary>
+        </member>
+        <member name="M:Smash.IHash32.Reset(System.UInt32)">
+            <summary>
+            Resets this hash with the specified seed
+            </summary>
+            <param name="seed">The seed to reset this instance</param>
+        </member>
+        <member name="M:Smash.IHash32.Compute">
+            <summary>
+            Computes the current 32bit hash
+            </summary>
+            <returns>The current 32bit hash</returns>
+        </member>
+        <member name="T:Smash.xxHash">
+            <summary>
+            The xxHash method. Use <see cref="M:Smash.xxHash.Create64(System.UInt64)"/>.
+            </summary>
+        </member>
+        <member name="T:Smash.xxHash.Hash64">
+            <summary>
+            xxHash for computing a 64bit hash.
+            </summary>
+        </member>
+        <member name="T:Smash.xxHash.Hash32">
+            <summary>
+            xxHash for computing a 32bit hash.
+            </summary>
+        </member>
+    </members>
+</doc>

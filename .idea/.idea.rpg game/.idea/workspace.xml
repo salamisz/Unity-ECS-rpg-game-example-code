@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3343781b-4546-4c46-ad49-baedd4178d3b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-879978953">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.56" value="2" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.72" value="1" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="104" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="104" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="6513" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="6513" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/CombatSystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4">
+              <caret line="136" column="37" selection-start-line="136" selection-start-column="37" selection-end-line="136" selection-end-column="37" />
+              <folding>
+                <marker date="1545339720897" expanded="false" signature="7:198" ph="..." />
+                <marker date="1545339720897" expanded="true" signature="226:14690" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="319:14687" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="359:919" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="948:1637" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="1676:1877" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="1910:2153" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="2378:2659" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="2692:2923" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="2958:3187" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="3566:14681" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="3678:14671" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="4068:14640" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="5175:13876" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="6307:13850" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="6412:8637" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="6646:7084" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="8191:8479" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="8721:13562" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="9130:9638" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="9712:13523" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="9854:13388" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="11537:13342" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="11710:12091" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="14025:14271" ph="{...}" />
+                <marker date="1545339720897" expanded="true" signature="14371:14618" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/AiRelatedComponents/AIModifierComponents.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding>
+                <marker date="1542565368000" expanded="false" signature="6:35" ph="..." />
+                <marker date="1542565368000" expanded="true" signature="63:312" ph="{...}" />
+                <marker date="1542565368000" expanded="true" signature="139:227" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/AiRelatedComponents/AICoolDownComponents.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+              <folding>
+                <marker date="1545339732448" expanded="false" signature="6:54" ph="..." />
+                <marker date="1545339732448" expanded="true" signature="82:351" ph="{...}" />
+                <marker date="1545339732448" expanded="true" signature="158:266" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ComponentData" />
+        <option value="XSLT Stylesheet" />
+        <option value="Component System" />
+        <option value="Shared Component Data" />
+        <option value="ComponentSystem" />
+        <option value="ComponentTag" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Entities/Selected.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../broken unity project/rpg game/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/EquipmentSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/other/SystemCall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../broken unity project/rpg game/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/ItemUnEquipSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../broken unity project/rpg game/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/InventoryADDSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Environment/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/HealthBarUITags.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/AITags/AIBodyTags.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/DynamicMeshTags.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/ButtonTags.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/AITags/AIHealthBarTags.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/PlayerTags/ArmorTags.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/OtherComponents/ItemStatComponents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/AiRelatedComponents/AICoolDownComponents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/AiRelatedComponents/AIFacingComponents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/AiRelatedComponents/AiHealthComponents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/AiRelatedComponents/AIModifierComponents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/PlayerRealatedComponents/FacingComponents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/PlayerRealatedComponents/PlayerCooldownComponents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/PlayerRealatedComponents/AgentDestinationComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/PlayerRealatedComponents/PlayerHealthComponents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/PlayerRealatedComponents/ModifierComponents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/GripAnimSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/other/GizmoDrawAI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/other/RemoveFunc.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Inventory/Inventory/Inventory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/other/ConvertoToMesh.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/other/GizmoDraw.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/other/InventoryList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Environment/PostProcessing/Editor/Utils/CurveEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/AITags/AiAnimTags.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/DynamicEquipmentTags.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/AIRelatedSystems/AIMovementSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/other/CombatBool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/RemoveItemsSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/InventoryOpenSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/ItemUnEquipSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/DynamicButtonTags.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/HeatlhBarSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/EquipmentSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/InventoryADDSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/PlayerTags/PlayerHealthBarTags.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/BlendSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/InterctionSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/MovementSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/LookAtSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/CameraSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/other/Taken.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/HealthBarSliderTags.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/CombatSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../broken unity project/rpg game/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/EquimentUpdateSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Entities/Equiable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/other/AnimatorOverride.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/Tags/PlayerTags/WeaponTags.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/other/Selected.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/InventoryADDSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/ForceLoopTags.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/other/Equiable.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/Tags/PlayerTags/ArmorTags.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/EquipedTags.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/EquipmentSystemExtention.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/UIComponents/IsTakenComponents.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/other/Taken.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Entities/SlotEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/other/TakenButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/DynamicImageTags.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Entities/slotEntity.cs" />
+        <option value="$USER_HOME$/Downloads/Inventory/Inventory/StorageContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/UIComponents/IndexComponents.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/other/InventoryList.cs" />
+        <option value="$PROJECT_DIR$/Assets/Environment/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" />
+        <option value="$PROJECT_DIR$/../../broken unity project/rpg game/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/InventoryADDSystem.cs" />
+        <option value="$PROJECT_DIR$/../../broken unity project/rpg game/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/ItemUnEquipSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/PlayerRealatedComponents/ModifierComponents.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/other/CombatBool.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/other/AnimDictionary.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/other/AnimatorOverride.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/HealthBarUITag.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/HealthBarSliderTags.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/other/HealthEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/AiRelatedComponents/AiHealthComponents.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/PlayerRealatedComponents/PlayerHealthComponents.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/Tags/AITags/AIHealthBarTags.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/Tags/PlayerTags/PlayerHealthBarTags.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/PlayerRealatedComponents/PlayerCooldownComponents.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/Tags/AITags/AiAnimTags.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/InterctionSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/BlendSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/CameraSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/AIRelatedSystems/AIMovementSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/GripAnimSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/LookAtSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/MovementSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/HeatlhBarSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/InventoryOpenSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/RemoveItemsSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/InventoryADDSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/ItemUnEquipSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/DynamicButtonTags.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/DynamicMeshTags.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/EquimentUpdateSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/EquipmentSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/CombatSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Components/AiRelatedComponents/AICoolDownComponents.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="528" />
+    <option name="width" value="1400" />
+    <option name="height" value="912" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="rpg game" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="rpg game" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rpg game" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rpg game" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rpg game" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rpg game" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="scripts" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rpg game" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="scripts" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Components" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rpg game" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="scripts" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Components" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AiRelatedComponents" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rpg game" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="scripts" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Components" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PlayerRealatedComponents" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rpg game" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="scripts" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Components" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tags" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rpg game" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="scripts" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Components" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tags" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AITags" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rpg game" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="scripts" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Components" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tags" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="UiTags" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rpg game" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="scripts" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="systems" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rpg game" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="scripts" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="systems" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CompleteSystems" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rpg game" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="scripts" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="systems" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CompleteSystems" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AIRelatedSystems" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rpg game" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="scripts" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="systems" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CompleteSystems" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PlayerRelatedSystems" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rpg game" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="scripts" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="systems" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CompleteSystems" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="UIRelatedSystems" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.build.unityPlugin" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="9064">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="9064" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3343781b-4546-4c46-ad49-baedd4178d3b" name="Default" comment="" />
+      <created>1534408934793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534408934793</updated>
+      <workItem from="1534408956112" duration="157000" />
+      <workItem from="1534409150968" duration="788000" />
+      <workItem from="1534423897637" duration="6096000" />
+      <workItem from="1534441547065" duration="6335000" />
+      <workItem from="1534491724663" duration="4979000" />
+      <workItem from="1534502686137" duration="2240000" />
+      <workItem from="1534510769154" duration="7394000" />
+      <workItem from="1534591434640" duration="72000" />
+      <workItem from="1534606978048" duration="6980000" />
+      <workItem from="1534660988742" duration="14271000" />
+      <workItem from="1534685713462" duration="6861000" />
+      <workItem from="1534702539804" duration="3923000" />
+      <workItem from="1534758352580" duration="3930000" />
+      <workItem from="1534868260942" duration="2299000" />
+      <workItem from="1535030050051" duration="914000" />
+      <workItem from="1535269348326" duration="591000" />
+      <workItem from="1535270331305" duration="5084000" />
+      <workItem from="1535275440258" duration="5096000" />
+      <workItem from="1535357628397" duration="14201000" />
+      <workItem from="1535393019806" duration="2965000" />
+      <workItem from="1535460232550" duration="4394000" />
+      <workItem from="1535539148847" duration="2178000" />
+      <workItem from="1535541447012" duration="4754000" />
+      <workItem from="1535548997302" duration="3602000" />
+      <workItem from="1535611407537" duration="6121000" />
+      <workItem from="1535630238810" duration="422000" />
+      <workItem from="1535634177017" duration="3729000" />
+      <workItem from="1535693944840" duration="14520000" />
+      <workItem from="1535780267642" duration="5703000" />
+      <workItem from="1535809602834" duration="6066000" />
+      <workItem from="1535872194181" duration="7989000" />
+      <workItem from="1535956176978" duration="2972000" />
+      <workItem from="1535964289898" duration="727000" />
+      <workItem from="1536030759798" duration="603000" />
+      <workItem from="1536078239573" duration="285000" />
+      <workItem from="1536235597640" duration="4897000" />
+      <workItem from="1536293567808" duration="4928000" />
+      <workItem from="1536331844489" duration="783000" />
+      <workItem from="1536332654927" duration="1256000" />
+      <workItem from="1536409198791" duration="4870000" />
+      <workItem from="1536579467734" duration="4952000" />
+      <workItem from="1536667778427" duration="9333000" />
+      <workItem from="1536730011811" duration="1235000" />
+      <workItem from="1536731281585" duration="2338000" />
+      <workItem from="1536755262788" duration="14536000" />
+      <workItem from="1537011607486" duration="7748000" />
+      <workItem from="1537096462607" duration="2389000" />
+      <workItem from="1537200732777" duration="3280000" />
+      <workItem from="1537353347761" duration="6486000" />
+      <workItem from="1537416912693" duration="1007000" />
+      <workItem from="1537464902741" duration="1839000" />
+      <workItem from="1537635091732" duration="5960000" />
+      <workItem from="1537711818428" duration="1229000" />
+      <workItem from="1537810391582" duration="2246000" />
+      <workItem from="1537856334236" duration="6518000" />
+      <workItem from="1537948057604" duration="3886000" />
+      <workItem from="1537963033971" duration="1685000" />
+      <workItem from="1538071030621" duration="1476000" />
+      <workItem from="1538207425862" duration="14981000" />
+      <workItem from="1538297246671" duration="7272000" />
+      <workItem from="1538401434004" duration="4803000" />
+      <workItem from="1538483620796" duration="2971000" />
+      <workItem from="1538538157493" duration="323000" />
+      <workItem from="1538582707521" duration="2765000" />
+      <workItem from="1538588875953" duration="3188000" />
+      <workItem from="1538624345559" duration="2880000" />
+      <workItem from="1538631189078" duration="359000" />
+      <workItem from="1538657273123" duration="1082000" />
+      <workItem from="1538833129766" duration="594000" />
+      <workItem from="1538887258795" duration="555000" />
+      <workItem from="1539013908216" duration="2802000" />
+      <workItem from="1539099808480" duration="989000" />
+      <workItem from="1539233165543" duration="934000" />
+      <workItem from="1539270601422" duration="2906000" />
+      <workItem from="1539421452594" duration="3701000" />
+      <workItem from="1539500379421" duration="3747000" />
+      <workItem from="1539619650661" duration="2962000" />
+      <workItem from="1539623149262" duration="1143000" />
+      <workItem from="1539695956525" duration="1666000" />
+      <workItem from="1539705042042" duration="997000" />
+      <workItem from="1539795510276" duration="656000" />
+      <workItem from="1539879097443" duration="485000" />
+      <workItem from="1540272069439" duration="3196000" />
+      <workItem from="1540276762347" duration="2340000" />
+      <workItem from="1540315079495" duration="1435000" />
+      <workItem from="1540351610406" duration="1186000" />
+      <workItem from="1540402414585" duration="771000" />
+      <workItem from="1540472699493" duration="1886000" />
+      <workItem from="1540634848753" duration="971000" />
+      <workItem from="1540646908981" duration="4245000" />
+      <workItem from="1540712042056" duration="4386000" />
+      <workItem from="1540731408613" duration="4029000" />
+      <workItem from="1540797863474" duration="11671000" />
+      <workItem from="1540829929858" duration="4904000" />
+      <workItem from="1540883729008" duration="3526000" />
+      <workItem from="1540899650393" duration="638000" />
+      <workItem from="1540909049152" duration="2859000" />
+      <workItem from="1540968739203" duration="901000" />
+      <workItem from="1540998005542" duration="3304000" />
+      <workItem from="1541012723682" duration="3157000" />
+      <workItem from="1541053128881" duration="3312000" />
+      <workItem from="1541065529543" duration="8236000" />
+      <workItem from="1541093425387" duration="6176000" />
+      <workItem from="1541135819456" duration="1468000" />
+      <workItem from="1541228867217" duration="5813000" />
+      <workItem from="1541246841311" duration="6233000" />
+      <workItem from="1541262309663" duration="2673000" />
+      <workItem from="1541265923521" duration="353000" />
+      <workItem from="1541270282244" duration="2728000" />
+      <workItem from="1541321347119" duration="2374000" />
+      <workItem from="1541339466924" duration="5918000" />
+      <workItem from="1541429666657" duration="4543000" />
+      <workItem from="1541508837758" duration="6148000" />
+      <workItem from="1541579475432" duration="5267000" />
+      <workItem from="1541651022847" duration="2248000" />
+      <workItem from="1541689650501" duration="349000" />
+      <workItem from="1541691209189" duration="3787000" />
+      <workItem from="1541773661141" duration="3469000" />
+      <workItem from="1541832473356" duration="12873000" />
+      <workItem from="1541922657352" duration="16953000" />
+      <workItem from="1542037698547" duration="7931000" />
+      <workItem from="1542088268104" duration="10016000" />
+      <workItem from="1542131623026" duration="4595000" />
+      <workItem from="1542298739835" duration="320000" />
+      <workItem from="1542299084555" duration="8998000" />
+      <workItem from="1542310044308" duration="1187000" />
+      <workItem from="1542383825546" duration="5010000" />
+      <workItem from="1542394982738" duration="1549000" />
+      <workItem from="1542440645809" duration="7181000" />
+      <workItem from="1542543473526" duration="6729000" />
+      <workItem from="1542633451320" duration="9054000" />
+      <workItem from="1542714882920" duration="2630000" />
+      <workItem from="1542730896158" duration="10000" />
+      <workItem from="1542733026381" duration="1195000" />
+      <workItem from="1542829727863" duration="1217000" />
+      <workItem from="1542891079006" duration="2740000" />
+      <workItem from="1542903022615" duration="3438000" />
+      <workItem from="1542984077440" duration="2644000" />
+      <workItem from="1543048908295" duration="8167000" />
+      <workItem from="1543089301631" duration="386000" />
+      <workItem from="1543129572944" duration="11272000" />
+      <workItem from="1543239293034" duration="5323000" />
+      <workItem from="1543330874543" duration="1182000" />
+      <workItem from="1543405223625" duration="1983000" />
+      <workItem from="1543480489206" duration="9553000" />
+      <workItem from="1543571408371" duration="5629000" />
+      <workItem from="1543674094046" duration="3340000" />
+      <workItem from="1543850686014" duration="4964000" />
+      <workItem from="1543934173693" duration="3028000" />
+      <workItem from="1544021651857" duration="6425000" />
+      <workItem from="1544036532528" duration="747000" />
+      <workItem from="1544038530795" duration="324000" />
+      <workItem from="1544038890162" duration="180000" />
+      <workItem from="1544039102155" duration="277000" />
+      <workItem from="1544039409379" duration="138000" />
+      <workItem from="1544040329344" duration="92000" />
+      <workItem from="1544075741234" duration="559000" />
+      <workItem from="1544107420366" duration="970000" />
+      <workItem from="1544549573765" duration="613000" />
+      <workItem from="1544551678290" duration="1433000" />
+      <workItem from="1544557314518" duration="2626000" />
+      <workItem from="1544619484479" duration="273000" />
+      <workItem from="1544628477375" duration="3510000" />
+      <workItem from="1544721313234" duration="1572000" />
+      <workItem from="1544730055478" duration="3046000" />
+      <workItem from="1544789504421" duration="1314000" />
+      <workItem from="1544864964031" duration="6968000" />
+      <workItem from="1544890238286" duration="2070000" />
+      <workItem from="1544907400514" duration="874000" />
+      <workItem from="1544951736145" duration="6588000" />
+      <workItem from="1544984332409" duration="2861000" />
+      <workItem from="1545054716140" duration="594000" />
+      <workItem from="1545055449834" duration="2406000" />
+      <workItem from="1545058844027" duration="586000" />
+      <workItem from="1545145095822" duration="1883000" />
+      <workItem from="1545157400391" duration="2212000" />
+      <workItem from="1545232427029" duration="4807000" />
+      <workItem from="1545284967755" duration="3384000" />
+      <workItem from="1545321624290" duration="2878000" />
+      <workItem from="1545336271661" duration="440000" />
+      <workItem from="1545337519667" duration="2289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="671415000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.50084317" side_tool="true" weight="0.14658849" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49915683" visible="true" weight="0.22068231" />
+      <window_info anchor="bottom" id="Build" order="0" sideWeight="0.49946696" weight="0.32960895" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39978212" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50053304" side_tool="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.49946696" weight="0.32897604" />
+      <window_info anchor="bottom" id="Unity" order="15" sideWeight="0.49946696" weight="0.32897604" />
+      <window_info anchor="bottom" id="TeamCity" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.17963752" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50053304" side_tool="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assembly-CSharp.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12160" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/other/ConvertoToMesh.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Entities/Selected.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Entities/Equiable.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../broken unity project/rpg game/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/InventoryADDSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="100" column="2" selection-end-line="100" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Environment/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="120" selection-start-line="10" selection-start-column="120" selection-end-line="10" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/other/InventoryList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../broken unity project/rpg game/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/EquipmentSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="111" column="1" selection-end-line="111" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../broken unity project/rpg game/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/EquimentUpdateSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="76" column="6" selection-end-line="76" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/other/GizmoDraw.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../broken unity project/rpg game/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/ItemUnEquipSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="107" column="1" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/AiRelatedComponents/AIFacingComponents.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/OtherComponents/ItemStatComponents.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/other/CombatBool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/PlayerRealatedComponents/ModifierComponents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/other/AnimDictionary.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/other/Taken.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/DynamicEquipmentTags.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/HealthBarUITags.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/HealthBarSliderTags.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/other/HealthEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/other/AnimatorOverride.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/AiRelatedComponents/AiHealthComponents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/PlayerRealatedComponents/PlayerHealthComponents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/ButtonTags.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/PlayerRealatedComponents/AgentDestinationComponent.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/PlayerTags/ArmorTags.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/AITags/AIHealthBarTags.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/PlayerTags/PlayerHealthBarTags.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/PlayerRealatedComponents/PlayerCooldownComponents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/BlendSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/CameraSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/GripAnimSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="63" column="42" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/InterctionSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="68" column="105" selection-start-line="68" selection-start-column="105" selection-end-line="68" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/LookAtSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="82" selection-start-line="34" selection-start-column="82" selection-end-line="34" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/MovementSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/AITags/AIBodyTags.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="1" selection-start-line="9" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/AIRelatedSystems/AIMovementSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="51" column="54" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/HeatlhBarSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="37" column="82" selection-start-line="37" selection-start-column="82" selection-end-line="37" selection-end-column="82" />
+          <folding>
+            <marker date="1545323548000" expanded="false" signature="6:129" ph="..." />
+            <marker date="1545323548000" expanded="true" signature="215:1414" ph="{...}" />
+            <marker date="1545323548000" expanded="true" signature="251:432" ph="{...}" />
+            <marker date="1545323548000" expanded="true" signature="466:643" ph="{...}" />
+            <marker date="1545323548000" expanded="true" signature="675:840" ph="{...}" />
+            <marker date="1545323548000" expanded="true" signature="1025:1407" ph="{...}" />
+            <marker date="1545323548000" expanded="true" signature="1091:1396" ph="{...}" />
+            <marker date="1545323548000" expanded="true" signature="1167:1381" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/DynamicButtonTags.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <marker date="1545338317935" expanded="false" signature="6:35" ph="..." />
+            <marker date="1545338317935" expanded="true" signature="63:206" ph="{...}" />
+            <marker date="1545338317935" expanded="true" signature="117:127" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/UiTags/DynamicMeshTags.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding>
+            <marker date="1545338343635" expanded="false" signature="6:35" ph="..." />
+            <marker date="1545338343635" expanded="true" signature="63:200" ph="{...}" />
+            <marker date="1545338343635" expanded="true" signature="115:125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/InventoryADDSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="77" column="122" selection-start-line="77" selection-start-column="122" selection-end-line="77" selection-end-column="122" />
+          <folding>
+            <marker date="1545336354103" expanded="false" signature="6:87" ph="..." />
+            <marker date="1545336354103" expanded="true" signature="115:4935" ph="{...}" />
+            <marker date="1545336354103" expanded="true" signature="215:4932" ph="{...}" />
+            <marker date="1545336354103" expanded="true" signature="258:666" ph="{...}" />
+            <marker date="1545336354103" expanded="true" signature="700:1004" ph="{...}" />
+            <marker date="1545336354103" expanded="true" signature="1038:1282" ph="{...}" />
+            <marker date="1545336354103" expanded="true" signature="1317:1579" ph="{...}" />
+            <marker date="1545336354103" expanded="true" signature="1806:4925" ph="{...}" />
+            <marker date="1545336354103" expanded="true" signature="1885:4915" ph="{...}" />
+            <marker date="1545336354103" expanded="true" signature="2016:4901" ph="{...}" />
+            <marker date="1545336354103" expanded="true" signature="2404:4839" ph="{...}" />
+            <marker date="1545336354103" expanded="true" signature="2513:4815" ph="{...}" />
+            <marker date="1545336354103" expanded="true" signature="2635:4764" ph="{...}" />
+            <marker date="1545336354103" expanded="true" signature="2742:4700" ph="{...}" />
+            <marker date="1545336354103" expanded="true" signature="3011:4662" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/InventoryOpenSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding>
+            <marker date="1545323764000" expanded="false" signature="6:40" ph="..." />
+            <marker date="1545323764000" expanded="true" signature="68:904" ph="{...}" />
+            <marker date="1545323764000" expanded="true" signature="125:902" ph="{...}" />
+            <marker date="1545323764000" expanded="true" signature="159:331" ph="{...}" />
+            <marker date="1545323764000" expanded="true" signature="421:896" ph="{...}" />
+            <marker date="1545323764000" expanded="true" signature="482:886" ph="{...}" />
+            <marker date="1545323764000" expanded="true" signature="554:686" ph="{...}" />
+            <marker date="1545323764000" expanded="true" signature="738:872" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/RemoveItemsSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+          <folding>
+            <marker date="1545324424000" expanded="false" signature="6:68" ph="..." />
+            <marker date="1545324424000" expanded="true" signature="96:2756" ph="{...}" />
+            <marker date="1545324424000" expanded="true" signature="151:2754" ph="{...}" />
+            <marker date="1545324424000" expanded="true" signature="273:322" ph="{...}" />
+            <marker date="1545324424000" expanded="true" signature="359:475" ph="{...}" />
+            <marker date="1545324424000" expanded="true" signature="509:726" ph="{...}" />
+            <marker date="1545324424000" expanded="true" signature="759:970" ph="{...}" />
+            <marker date="1545324424000" expanded="true" signature="1006:1121" ph="{...}" />
+            <marker date="1545324424000" expanded="true" signature="1342:1797" ph="{...}" />
+            <marker date="1545324424000" expanded="true" signature="1403:1786" ph="{...}" />
+            <marker date="1545324424000" expanded="true" signature="1480:1772" ph="{...}" />
+            <marker date="1545324424000" expanded="true" signature="1841:2748" ph="{...}" />
+            <marker date="1545324424000" expanded="true" signature="1914:2725" ph="{...}" />
+            <marker date="1545324424000" expanded="true" signature="2137:2661" ph="{...}" />
+            <marker date="1545324424000" expanded="true" signature="2240:2631" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/ItemUnEquipSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="76" column="32" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
+          <folding>
+            <marker date="1545337864454" expanded="false" signature="6:87" ph="..." />
+            <marker date="1545337864454" expanded="true" signature="115:4972" ph="{...}" />
+            <marker date="1545337864454" expanded="true" signature="213:4970" ph="{...}" />
+            <marker date="1545337864454" expanded="true" signature="253:435" ph="{...}" />
+            <marker date="1545337864454" expanded="true" signature="469:681" ph="{...}" />
+            <marker date="1545337864454" expanded="true" signature="716:944" ph="{...}" />
+            <marker date="1545337864454" expanded="true" signature="972:1327" ph="{...}" />
+            <marker date="1545337864454" expanded="true" signature="1364:1597" ph="{...}" />
+            <marker date="1545337864454" expanded="true" signature="1895:4964" ph="{...}" />
+            <marker date="1545337864454" expanded="true" signature="1962:4954" ph="{...}" />
+            <marker date="1545337864454" expanded="true" signature="2086:4927" ph="{...}" />
+            <marker date="1545337864454" expanded="true" signature="2202:4909" ph="{...}" />
+            <marker date="1545337864454" expanded="true" signature="2423:4887" ph="{...}" />
+            <marker date="1545337864454" expanded="true" signature="2654:4861" ph="{...}" />
+            <marker date="1545337864454" expanded="true" signature="2717:2995" ph="/* this system basically reverses what the InventoryAddSystem and the EquipmentUpdateSystem and the EquipmentSyst ... */" />
+            <marker date="1545337864454" expanded="true" signature="4173:4472" ph="{...}" />
+            <marker date="1545337864454" expanded="true" signature="4539:4830" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/EquimentUpdateSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/UIRelatedSystems/EquipmentSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="133" column="99" selection-start-line="133" selection-start-column="99" selection-end-line="133" selection-end-column="99" />
+          <folding>
+            <marker date="1545338914064" expanded="false" signature="6:130" ph="..." />
+            <marker date="1545338914064" expanded="true" signature="158:7259" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="211:7257" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="323:372" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="401:583" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="617:834" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="867:1078" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="1115:1588" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="1625:1896" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="2173:5344" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="2234:5334" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="2360:5320" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="2498:5302" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="2648:5251" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="4101:4627" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="4698:5217" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="5388:7251" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="5446:7238" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="5526:7223" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="5606:7204" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="5725:7181" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="5959:7124" ph="{...}" />
+            <marker date="1545338914064" expanded="true" signature="6213:7059" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/Tags/AITags/AiAnimTags.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <marker date="1545288606000" expanded="false" signature="6:35" ph="..." />
+            <marker date="1545288606000" expanded="true" signature="63:185" ph="{...}" />
+            <marker date="1545288606000" expanded="true" signature="110:120" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/systems/CompleteSystems/PlayerRelatedSystems/CombatSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="136" column="37" selection-start-line="136" selection-start-column="37" selection-end-line="136" selection-end-column="37" />
+          <folding>
+            <marker date="1545339720897" expanded="false" signature="7:198" ph="..." />
+            <marker date="1545339720897" expanded="true" signature="226:14690" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="319:14687" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="359:919" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="948:1637" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="1676:1877" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="1910:2153" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="2378:2659" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="2692:2923" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="2958:3187" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="3566:14681" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="3678:14671" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="4068:14640" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="5175:13876" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="6307:13850" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="6412:8637" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="6646:7084" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="8191:8479" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="8721:13562" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="9130:9638" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="9712:13523" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="9854:13388" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="11537:13342" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="11710:12091" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="14025:14271" ph="{...}" />
+            <marker date="1545339720897" expanded="true" signature="14371:14618" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/AiRelatedComponents/AIModifierComponents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <marker date="1542565368000" expanded="false" signature="6:35" ph="..." />
+            <marker date="1542565368000" expanded="true" signature="63:312" ph="{...}" />
+            <marker date="1542565368000" expanded="true" signature="139:227" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Components/AiRelatedComponents/AICoolDownComponents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding>
+            <marker date="1545339732448" expanded="false" signature="6:54" ph="..." />
+            <marker date="1545339732448" expanded="true" signature="82:351" ph="{...}" />
+            <marker date="1545339732448" expanded="true" signature="158:266" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
